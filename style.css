@@ -1,0 +1,101 @@
+.section1{
+    height: 100vh;
+    background-image: url('https://images.pexels.com/photos/1540108/pexels-photo-1540108.jpeg?auto=compress&cs=tinysrgb&w=1260&h=1080&dpr=2');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center ;
+    background-attachment: fixed;
+}
+
+
+
+
+
+.abt{
+    height: 50vh;
+    background-image: url('https://images.pexels.com/photos/24906337/pexels-photo-24906337/free-photo-of-a-group-of-jellyfish.jpeg?auto=compress&cs=tinysrgb&w=1200');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center ;
+    background-attachment: fixed;
+}
+
+.courses{
+    height: 100vh;
+    background-color: #152040;
+
+}
+
+.c-row{
+    height: fit-content;
+
+}
+
+/* .c-col{
+    margin: 20px;
+    width: 25vw;
+    height: 60vh;
+} */
+
+.c-1{
+    background-image: url('https://images.pexels.com/photos/3046582/pexels-photo-3046582.jpeg?auto=compress&cs=tinysrgb&w=1200');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center ;
+}
+
+.c-2{
+    background-image: url('https://images.pexels.com/photos/3098971/pexels-photo-3098971.jpeg?auto=compress&cs=tinysrgb&w=1200');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center ;
+}
+
+.c-3{
+    background-image: url('https://images.pexels.com/photos/3098970/pexels-photo-3098970.jpeg?auto=compress&cs=tinysrgb&w=1200');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center ;
+}
+
+/* Carousel Styles Starts */
+
+.custom-carousel-style{
+    height: 60vh;
+    background-color: #c5c7cf;
+}
+
+/* Carousel Styles Ends */
+
+.donate-us{
+    height: 80vh;
+    background-image: url('https://images.pexels.com/photos/17976451/pexels-photo-17976451/free-photo-of-turtle-in-sea.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center ;
+    background-attachment: fixed;
+    margin-bottom: 0px;
+}
+
+.certified{
+    height: 60vh;
+    background-color: #152040;
+    margin-top: 0px;
+}
+
+.map{
+    height: 50vh;
+}
+
+.nrow{
+    height: 60vh;
+}
+
+.box{
+    height: 5vh;
+    width: 20vh;
+    gap: 20px;
+    position: fixed;
+    bottom: 0;
+    right: 3%;
+}
